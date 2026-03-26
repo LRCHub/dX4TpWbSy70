@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "HANDS UP",
+  "base_artist": "Kis-My-Ft2",
+  "createdAt": "2026-03-26T15:28:06.214943Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Throw Your Hands Up (Interlude) (feat. Lil' Kim)",
+      "artist": "Missy Elliott",
+      "has_synced": false,
+      "path": "select/01_Throw_Your_Hands_Up_(Interlude)_(feat._Lil'_Kim)_Missy_Elliott.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hands Up",
+      "artist": "September",
+      "has_synced": false,
+      "path": "select/02_Hands_Up_September.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Put Ya Hands Up",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/03_Put_Ya_Hands_Up_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Throw Your Hands Up",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/04_Throw_Your_Hands_Up_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hands Up",
+      "artist": "Fun Factory",
+      "has_synced": false,
+      "path": "select/05_Hands_Up_Fun_Factory.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hands Up",
+      "artist": "Kate Ryan",
+      "has_synced": false,
+      "path": "select/06_Hands_Up_Kate_Ryan.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hands Up!",
+      "artist": "Scooter",
+      "has_synced": true,
+      "path": "select/07_Hands_Up!_Scooter.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hold Your Hands Up",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/08_Hold_Your_Hands_Up_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hands Up",
+      "artist": "Groove Armada",
+      "has_synced": true,
+      "path": "select/09_Hands_Up_Groove_Armada.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hands Up",
+      "artist": "Sam Sparro",
+      "has_synced": true,
+      "path": "select/10_Hands_Up_Sam_Sparro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hands Up",
+      "artist": "Blood Orange",
+      "has_synced": true,
+      "path": "select/11_Hands_Up_Blood_Orange.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Put Your Hands Up",
+      "artist": "Benny Benassi",
+      "has_synced": true,
+      "path": "select/12_Put_Your_Hands_Up_Benny_Benassi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hands Up",
+      "artist": "Elzhi",
+      "has_synced": false,
+      "path": "select/13_Hands_Up_Elzhi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Get Your Hands Up - .",
+      "artist": "Fergie",
+      "has_synced": true,
+      "path": "select/14_Get_Your_Hands_Up_-_._Fergie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Get Your Hands Up (Feat. The Black Eyed Peas) (Bonus Track)",
+      "artist": "Fergie",
+      "has_synced": true,
+      "path": "select/15_Get_Your_Hands_Up_(Feat._The_Black_Eyed_Peas)_(Bonus_Track)_Fergie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Put Your Hands Up For Detroit",
+      "artist": "Fedde Le Grand",
+      "has_synced": false,
+      "path": "select/16_Put_Your_Hands_Up_For_Detroit_Fedde_Le_Grand.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Put Your Hands Up in the Air",
+      "artist": "Black&White Brothers",
+      "has_synced": false,
+      "path": "select/17_Put_Your_Hands_Up_in_the_Air_Black&White_Brothers.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hands Up",
+      "artist": "Princess Nokia",
+      "has_synced": true,
+      "path": "select/18_Hands_Up_Princess_Nokia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HANDS UP",
+      "artist": "Kis-My-Ft2",
+      "has_synced": false,
+      "path": "select/pl_01_HANDS_UP_Kis-My-Ft2.txt"
+    }
+  ]
+}
